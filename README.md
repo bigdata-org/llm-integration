@@ -55,6 +55,6 @@ This project enhances the existing assignment by developing a **Streamlit applic
 
 ## Supported LLM Models
 - **OpenAI GPT-4o**: [Documentation](#)
-- **Google Gemini 2.0 Flash**: [Documentation](#)
+- **Google Gemini 1.5 pro**: [Documentation](#)
 - **DeepSeek**: [Documentation](#)
 - **Anthropic Claude**: [Documentation](#)
