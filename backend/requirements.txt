@@ -1,0 +1,10 @@
+
+fastapi
+uvicorn
+redis
+pymupdf
+markdownify
+python-dotenv
+litellm
+python-multipart
+

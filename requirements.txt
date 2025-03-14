@@ -1,0 +1,9 @@
+setuptools
+fastapi
+uvicorn
+streamlit
+boto3
+redis
+pymupdf
+lite-llm
+requests
