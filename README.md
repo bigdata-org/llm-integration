@@ -1,6 +1,9 @@
 # llm-integration
 Integratig llm with pdf scrapper
 
+### Api url : https://case-798800248787.us-central1.run.app
+### Streamlit url: https://frontend-gpt-qyjhl6rcsnihsnsm723eaq.streamlit.app/
+
 #Overview
 This project enhances the existing assignment by developing a **Streamlit application** that integrates **Large Language Models (LLMs)** using **FastAPI** and **LiteLLM** for API management. The application allows users to summarize and answer questions based on uploaded PDF documents.
 
